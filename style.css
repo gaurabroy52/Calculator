@@ -1,0 +1,33 @@
+.form1{
+
+  color:purple;
+	display:table;
+	padding:20px;
+	background-color:#e7ab63;
+	border:solid 5px green;
+}
+.row{
+	display:table-row;
+}
+.row label{
+	display:table-cell;
+	padding:2px;
+	text-align:right;
+}
+.row input{
+	display:table-cell;
+	padding:5px;
+
+	text-align:right;
+}
+body{
+  display: block;
+}
+.form2{
+
+  color:purple;
+	display:table;
+	padding:20px;
+	background-color:#e7ab63;
+	border:solid 5px green;
+}
